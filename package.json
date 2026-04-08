@@ -1,0 +1,26 @@
+{
+  "name": "planzyro",
+  "version": "1.0.0",
+  "description": "a project management application",
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "homepage": "https://github.com/devidevpratapsingh/planzyro#readme",
+  "bugs": {
+    "url": "https://github.com/devidevpratapsingh/planzyro/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devidevpratapsingh/planzyro.git"
+  },
+  "license": "ISC",
+  "author": "devi dev pratap singh",
+  "type": "module",
+  "main": "index.js",
+  
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
