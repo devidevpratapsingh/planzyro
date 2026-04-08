@@ -19,8 +19,10 @@
   "author": "devi dev pratap singh",
   "type": "module",
   "main": "index.js",
-  
   "scripts": {
     "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.8.1"
   }
 }
